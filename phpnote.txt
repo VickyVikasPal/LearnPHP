@@ -1,0 +1,22 @@
+PHP & OOPS =>  
+1) validation
+2) magic method
+3) namespace
+4) traits
+5) Inheritance
+6) polymarphism
+7) encapsulation
+
+Mysql=>
+
+1) Store procedure
+2) Functions
+3) index
+4) view
+5) joins
+6) Case when 
+7) trigger
+8) rollback
+9) Commit
+10) injection
+11) prepared
